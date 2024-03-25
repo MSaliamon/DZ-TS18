@@ -1,38 +1,4 @@
 
-// type Award = string;
-
-// interface Movie {
-//     title: string;
-//     releaseYear: number;
-//     rating: number;
-//     awards: Award[];
-// }
-
-// interface Category {
-//     name: string;
-//     movies: Movie[];
-// }
-
-// interface MatchFilter {
-//     filter: string;
-// }
-
-// interface RangeFilter {
-//     filter: number;
-//     filterTo: number;
-// }
-
-// interface ValuesFilter {
-//     values: string[];
-// }
-
-// type Filter = MatchFilter | RangeFilter | ValuesFilter;
-
-// interface FiltersState {
-//     matchFilter?: MatchFilter;
-//     rangeFilter?: RangeFilter;
-//     valuesFilter?: ValuesFilter;
-// }
 
 type Award = string;
 
